@@ -27,7 +27,7 @@ The evaluation metric used for the competition was Multi-Class Log Loss between 
 
 ## Usage
 
-A Google Colab notebook is provided in this repository which includes the complete code for data preprocessing, model training, and evaluation. You can clone this repository and run the notebook to replicate the project or use it as a starting point for your own experiments.
+A Google Colab notebook is provided in this repository which includes the complete code for data preprocessing, model training, and evaluation. You can go to this link to download the dataset in the zip file to your google drive: https://www.kaggle.com/competitions/dog-breed-identification/data. You can clone this repository and run the notebook to replicate the project or use it as a starting point for your own experiments.
 
 ## Contact
 
